@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Typing SVG animado -->
-  <a href="https://github.com/liperllk">
+  <a href="https://github.com/FellypeAlexandre">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=238636&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Fellype+Alexandre!+%F0%9F%91%8B;Desenvolvedor+de+Software+.NET+%2F+C%23+%F0%9F%9A%80;Especialista+em+SQL+Server+%26+Bancos+Relacionais+%F0%9F%92%BE;Clean+Code+%7C+Arquitetura+em+Camadas+%7C+CQS+%E2%9C%A8;Graduado+com+Honra+ao+M%C3%A9rito+Acad%C3%AAmico+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 
@@ -79,8 +79,8 @@
 
 | Repositório | Descrição | Stack |
 | :--- | :--- | :---: |
-| 📦 **[EM.Repository](https://github.com/LipeRllk/EM.Repository)** | Implementação e estruturação de rotinas de repositório, persistência e arquitetura de dados em .NET / C#. | `C#` `.NET` |
-| ⚡ **[exelToSql](https://github.com/LipeRllk/exelToSql)** | Utilitário para conversão, sanitização e geração automatizada de scripts SQL a partir de planilhas de dados. | `JavaScript` `SQL` `HTML/CSS` |
+| 📦 **[EM.Repository](https://github.com/FellypeAlexandre/EM.Repository)** | Implementação e estruturação de rotinas de repositório, persistência e arquitetura de dados em .NET / C#. | `C#` `.NET` |
+| ⚡ **[exelToSql](https://github.com/FellypeAlexandre/exelToSql)** | Utilitário para conversão, sanitização e geração automatizada de scripts SQL a partir de planilhas de dados. | `JavaScript` `SQL` `HTML/CSS` |
 
 </div>
 
@@ -89,12 +89,12 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LipeRllk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Fellype" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeRllk&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellypeAlexandre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Fellype" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellypeAlexandre&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LipeRllk&theme=tokyonight&hide_border=true" alt="GitHub Streak de Fellype" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FellypeAlexandre&theme=tokyonight&hide_border=true" alt="GitHub Streak de Fellype" />
 </div>
 
 ---
