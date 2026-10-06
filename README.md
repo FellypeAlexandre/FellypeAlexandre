@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Typing SVG animado -->
+  <!-- Typing SVG animado otimizado para não cortar texto e responsivo -->
   <a href="https://github.com/FellypeAlexandre">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=238636&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Fellype+Alexandre!+%F0%9F%91%8B;Desenvolvedor+de+Software+.NET+%2F+C%23+%F0%9F%9A%80;Especialista+em+SQL+Server+%26+Bancos+Relacionais+%F0%9F%92%BE;Clean+Code+%7C+Arquitetura+em+Camadas+%7C+CQS+%E2%9C%A8;Graduado+com+Honra+ao+M%C3%A9rito+Acad%C3%AAmico+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=238636&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+o+Fellype+Alexandre!+%F0%9F%91%8B;Desenvolvedor+de+Software+.NET+%2F+C%23+%F0%9F%9A%80;SQL+Server+%26+Bancos+Relacionais+%F0%9F%92%BE;Clean+Code+%7C+Arquitetura+em+Camadas+%7C+CQS+%E2%9C%A8;Graduado+com+Honra+ao+M%C3%A9rito+Acad%C3%AAmico+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -16,7 +16,7 @@
     <a href="mailto:fellype200313@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Goi%C3%A2nia%2C%20GO-238636?style=for-the-badge&logo=google-maps&logoColor=white" alt="Localização" />
+    <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Goi%C3%A2nia%2C%20GO-238636?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" />
   </p>
 
 </div>
@@ -45,19 +45,19 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### **Bancos de Dados & Migrações**
+#### **Bancos de Dados & Modelagem**
 <p>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Firebird_SQL-FF4500?style=for-the-badge&logo=firebird&logoColor=white" alt="Firebird" />
-  <img src="https://img.shields.io/badge/Modelagem_Relacional_&_DDL/DML-00599C?style=for-the-badge&logo=databricks&logoColor=white" alt="Modelagem SQL" />
+  <img src="https://img.shields.io/badge/Modelagem_Relacional_&_SQL-00599C?style=for-the-badge&logo=dbeaver&logoColor=white" alt="Modelagem SQL" />
 </p>
 
 #### **Boas Práticas & Metodologias**
 <p>
   <img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=codewars&logoColor=white" alt="Clean Code" />
-  <img src="https://img.shields.io/badge/Arquitetura_em_Camadas-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Arquitetura em Camadas" />
-  <img src="https://img.shields.io/badge/FluentValidation-009688?style=for-the-badge&logo=checkmarx&logoColor=white" alt="FluentValidation" />
+  <img src="https://img.shields.io/badge/Arquitetura_em_Camadas-4A154B?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Arquitetura em Camadas" />
+  <img src="https://img.shields.io/badge/FluentValidation-009688?style=for-the-badge&logo=nuget&logoColor=white" alt="FluentValidation" />
   <img src="https://img.shields.io/badge/BDD_&_Especifica%C3%A7%C3%A3o_Funcional-2C8EBB?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD" />
   <img src="https://img.shields.io/badge/Code_Review-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Code Review" />
   <img src="https://img.shields.io/badge/Scrum_%2F_Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
@@ -80,21 +80,16 @@
 | Repositório | Descrição | Stack |
 | :--- | :--- | :---: |
 | 📦 **[EM.Repository](https://github.com/FellypeAlexandre/EM.Repository)** | Implementação e estruturação de rotinas de repositório, persistência e arquitetura de dados em .NET / C#. | `C#` `.NET` |
-| ⚡ **[exelToSql](https://github.com/FellypeAlexandre/exelToSql)** | Utilitário para conversão, sanitização e geração automatizada de scripts SQL a partir de planilhas de dados. | `JavaScript` `SQL` `HTML/CSS` |
+| ⚡ **[exelToSql](https://github.com/FellypeAlexandre/exelToSql)** | Utilitário web para automação de cargas massivas e geração de scripts SQL parametrizados a partir de planilhas. | `Python` `Flask` `Pandas` `SQL` |
 
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas & Atividade no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellypeAlexandre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Fellype" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellypeAlexandre&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FellypeAlexandre&theme=tokyonight&hide_border=true" alt="GitHub Streak de Fellype" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FellypeAlexandre&theme=tokyonight&hide_border=true" alt="GitHub Streak e Atividades de Fellype" />
 </div>
 
 ---
